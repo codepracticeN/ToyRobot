@@ -1,0 +1,18 @@
+The application is required MAVEN and JDK1.8 to build and running the test
+	- To install Maven please visit: https://maven.apache.org/download.cgi
+	- To install JDK1.8 please visit: https://www.oracle.com/au/java/technologies/javase/javase8-archive-downloads.html
+----------------------------------------------------------------------------------------------------------------------------------
+Run with java package:
+	- Open Windows command prompt and go to "toy_robot_challenge" folder
+	- Run "mvn package" to build project and run unit tests
+	- Run "java -jar target/toy-robot-0.0.1-SNAPSHOT.jar" to start application
+	
+-----------------------------------------------------------------------------------------------------------------------------------
+Run with Jbossstudio 8
+	- Open project in Jbossstudio 8
+	- Run maven update project then build project
+	- Right click on "ToyRobotApplication.java" then choose "Run as" then choose "Java Application"
+	
+-----------------------------------------------------------------------------------------------------------------------------------
+Test resource files are under "src/test/resources".
+Test class "ToyRobotTest.java" and please use JUnit to run it
