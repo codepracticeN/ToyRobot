@@ -16,3 +16,4 @@ Run with Jbossstudio 8 IDE
 -----------------------------------------------------------------------------------------------------------------------------------
 Test resource files are under "src/test/resources".
 Test class "ToyRobotTest.java" and please use JUnit to run it
+Input file need to be text file
