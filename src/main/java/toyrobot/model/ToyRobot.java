@@ -155,10 +155,6 @@ public class ToyRobot {
 		}
 	}
 	
-	public void turn() {
-		
-	}
-
 	/**
 	 * report action
 	 */
